@@ -27,21 +27,20 @@ I love solving complex problems and shipping products that actually work in prod
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white)  
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) 
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) 
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white) 
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white)
 
----
 
 ## 📫 Let's Connect
 
